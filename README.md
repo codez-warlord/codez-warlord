@@ -1,3 +1,20 @@
+![welcome](https://github.com/thedeveloper03/thedeveloper03/assets/123274423/dddcb089-cc76-4531-a2be-06d863f784d2)
+
+ <p align="center"> 
+ <div align="center">  
+   <a href="https://git.io/typing-svg"><img 
+  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+Web+Developer;New+Beginning+Developer;Please+Support+Me" 
+  alt="Typing SVG" /></a>      
+ </p> 
+
+ <p align="center"> 
+ <img align="center" alt="count" src="https://count.getloli.com/get/@: web-developer03?theme=rule34"> 
+ </p>
+
+   ### <div align="center">I'm a full-time full-stack developer 👨‍💻</div> 
+   
+  ![206916906-9bfb66d9-c419-44c2-908a-4885e610425f(0[(https://github.com/thedeveloper03/thedeveloper03/assets/123274423/9d2786b0-eb48-4e42-b83c-8bae4d831cbc
+
 # My GitHub status
 ![trophy](https://github-profile-trophy.vercel.app/?username=web-developer03&theme=radical)
 <br>
