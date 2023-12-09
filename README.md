@@ -66,7 +66,7 @@ ___
    <br/> 
      <div>
    <p align="center"> 
- <a href="#"><img title="Author" src="https://img.shields.io/badge/Author-The developer-orange.svg?style=for-the-badge&logo=github"></a> 
+ <a href="#"><img title="Author" src="https://img.shields.io/badge/Author-web developer-red.svg?style=for-the-badge&logo=github"></a> 
  </p> 
  
  </div>
