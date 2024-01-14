@@ -11,7 +11,7 @@
 
    ### <div align="center">I'm a full-time full-stack developer 👨‍💻</div> 
    
-  ![206916906-9bfb66d9-c419-44c2-908a-4885e610425f][(https://github.com/thedeveloper03/thedeveloper03/assets/123274423/9d2786b0-eb48-4e42-b83c-8bae4d831cbc
+  ![206916906-9bfb66d9-c419-44c2-908a-4885e610425f][(https://github.com/thedeveloper03/thedeveloper03/assets/123274423/9d2786b0-eb48-4e42-b83c-8bae4d831cbc)
 
 # My GitHub status
 ![trophy](https://github-profile-trophy.vercel.app/?username=web-developer03&theme=radical)
